@@ -1,0 +1,9 @@
+.vs
+backup
+x64
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.slnLaunch.user
+*.txt
